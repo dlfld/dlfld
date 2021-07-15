@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![戴林峰 github stats](https://github-readme-stats.vercel.app/api?username=dailinfeng&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
