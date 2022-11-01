@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hello+World!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=235&lines=Hello+World!!" alt="Typing SVG" />
 </h1>
 
 <div align="center"> <img height="237px" src="https://github-readme-stats.vercel.app/api?username=dlfld&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
