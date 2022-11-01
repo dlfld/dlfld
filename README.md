@@ -3,11 +3,15 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif"/>
   <br/>
+- 👋 Hi, I’m dlf
+    <br/>
+- 👀 I’m interested in do something to change the world.
+    <br/>
+- 👻 I want to do some cool projects.
+    <br/>
+- 📫 How to reach me: 2441086385@qq.com
 </div>
-                                          - 👋 Hi, I’m dlf
-                                          - 👀 I’m interested in do something to change the world.
-                                          - 👻 I want to do some cool projects.
-                                          - 📫 How to reach me: 2441086385@qq.com
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=Hello+World!!" alt="Typing SVG" />
 </h1>
