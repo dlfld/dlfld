@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="237px" width="400px"  src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif"/>
+  <img height="637px" src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif"/>
   <br/>
 - 👋 Hi, I’m dlf
     <br/>
