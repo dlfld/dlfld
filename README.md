@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif"/>
+  <br/>
 - 👋 Hi, I’m dlf
 - 👀 I’m interested in do something to change the world.
 - 👻 I want to do some cool projects.
