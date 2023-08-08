@@ -7,7 +7,7 @@
     <br/>
 - 👀 I’m interested in do something to change the world.
     <br/>
-- 👻 I want to do some cool projects.
+- 👻 I want to do something cool.
     <br/>
 - 📫 How to reach me: 2441086385@qq.com
 </div>
